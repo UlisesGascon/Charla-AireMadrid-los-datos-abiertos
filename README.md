@@ -28,7 +28,7 @@
 ![](assets/stack-v1.png)
 
 - Firebase (éstaticos)
-- [Backend Node.js + Pillarsjs(RaspberryPi)](assests/server.png)
+- [Backend Node.js + Pillarsjs(RaspberryPi)](assets/server.png)
 
 
 **[V2 (finales de 2015)](https://github.com/UlisesGascon/Aire-Madrid/releases/tag/2.0.0)**
