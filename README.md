@@ -1,5 +1,9 @@
 # AireMadrid, la realidad de los datos abiertos
 
+![foto](assets/evento.jpg)
+*[Source: foto de Twitter @betabeersMAD](https://twitter.com/betabeersMAD/status/842443319275868160)*
+
+
 > Aire Madrid es una aplicación para poder ver los datos de la calidad del Aire de Madrid en tiempo real. Ulises nos hablará de las dificultades que supone crear un proyecto Open Source que utiliza los datos abiertos de calidad del aire que publica el Ayuntamiento de Madrid para informar y permitir la reutilización efectiva de esa información por parte de los usuarios y otros desarrolladores..
 > - [Betabeers Madrid - 73: especial OpenData](https://betabeers.com/event/betabeers-madrid-73-especial-opendata-5201/)
 
