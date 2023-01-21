@@ -1,3 +1,5 @@
+<h2 align="center">:warning: This repository is not longer maintained :warning:</h2>
+
 # AireMadrid, la realidad de los datos abiertos
 
 ![foto](assets/evento.jpg)
